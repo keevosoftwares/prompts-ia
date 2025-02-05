@@ -1,0 +1,1 @@
+Analise o seguinte código e identifique possíveis pontos de débito técnico. Como esses pontos podem impactar a escalabilidade e a manutenção do sistema no longo prazo? Que refatorações ou mudanças arquiteturais podem ser feitas para reduzir esse débito?

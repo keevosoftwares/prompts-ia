@@ -1,0 +1,1 @@
+No arquivo `Forms/ClienteForm.cs`, refatore a lógica de inicialização do formulário para melhorar a separação entre UI e lógica de negócio. Como podemos melhorar a testabilidade desse código?

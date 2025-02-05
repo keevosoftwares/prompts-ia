@@ -1,0 +1,1 @@
+Dado o arquivo `Services/UsuarioService.cs`, analise o método `BuscarUsuariosAtivos()` e sugira melhorias para otimização de desempenho e redução de chamadas desnecessárias ao banco de dados. Indique como implementar caching, se aplicável.

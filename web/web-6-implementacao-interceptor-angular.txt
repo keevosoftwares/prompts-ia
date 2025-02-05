@@ -1,0 +1,1 @@
+No arquivo `src/app/interceptors/auth.interceptor.ts`, implemente um interceptor que adicione automaticamente o token JWT a todas as requisições HTTP. Como garantir que requisições não autenticadas sejam tratadas corretamente?

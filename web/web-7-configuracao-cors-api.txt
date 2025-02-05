@@ -1,0 +1,1 @@
+No arquivo `Startup.cs` da API, configure corretamente o CORS para permitir chamadas seguras entre frontend e backend. Como definir regras mais restritivas sem comprometer a usabilidade da aplicação?

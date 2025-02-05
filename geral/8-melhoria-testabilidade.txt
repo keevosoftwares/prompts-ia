@@ -1,0 +1,1 @@
+Avalie o código a seguir em termos de testabilidade. Existem dependências ou acoplamentos que dificultam a criação de testes unitários ou de integração? Como refatorar o código para facilitar o teste e aumentar a cobertura de testes automatizados?

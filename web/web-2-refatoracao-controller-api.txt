@@ -1,0 +1,1 @@
+No arquivo `Controllers/PedidoController.cs`, refatore o método `FinalizarPedido()` para torná-lo mais modular e testável. Separe responsabilidades, aplicando boas práticas como injeção de dependências e separação de lógica de negócio.

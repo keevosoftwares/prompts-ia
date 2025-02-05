@@ -1,0 +1,1 @@
+No script `Scripts/ExtrairRelatorio.vbs`, analise a query SQL utilizada e sugira otimizações para reduzir tempo de execução. Como evitar consultas desnecessárias e melhorar o desempenho?

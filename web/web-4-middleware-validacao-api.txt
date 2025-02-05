@@ -1,0 +1,1 @@
+No arquivo `Middleware/ValidacaoMiddleware.cs`, adicione uma validação genérica para capturar e padronizar erros de entrada de dados antes de chegar aos controllers. Como implementar isso sem impactar a performance?

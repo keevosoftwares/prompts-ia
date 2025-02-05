@@ -1,0 +1,1 @@
+Dado o arquivo `Auth/JwtService.cs`, analise o método `GerarToken()` e sugira melhorias para reforçar a segurança do token JWT. Como podemos reduzir vulnerabilidades sem comprometer a usabilidade?

@@ -1,0 +1,1 @@
+No arquivo `Auth/LoginService.cs`, revise a implementação do login e sugira melhorias para reforçar a segurança, evitando injeção de dependência e armazenamento inseguro de credenciais.

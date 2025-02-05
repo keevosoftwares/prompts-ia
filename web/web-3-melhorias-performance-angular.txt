@@ -1,0 +1,1 @@
+Analise o arquivo `src/app/components/tabela-clientes.component.ts`. Identifique otimizações para melhorar a performance da renderização da tabela, como uso adequado de `trackBy`, `OnPush` e lazy loading para dados extensos.

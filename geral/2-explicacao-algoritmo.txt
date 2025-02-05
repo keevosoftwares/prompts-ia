@@ -1,0 +1,1 @@
+Explique detalhadamente o algoritmo implementado neste código. Quais são as principais etapas do processamento? Quais são as entradas e saídas esperadas? Existe alguma complexidade ou caso de borda que precisa ser considerado?

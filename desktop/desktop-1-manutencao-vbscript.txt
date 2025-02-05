@@ -1,0 +1,1 @@
+Dado o arquivo `Scripts/ProcessarDados.vbs`, revise o código e sugira melhorias na manipulação de arquivos. Como reduzir riscos de falhas em operações de leitura e escrita?

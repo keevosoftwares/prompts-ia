@@ -1,0 +1,1 @@
+Examine este código em busca de possíveis bugs, considerando casos de borda e falhas em condições inesperadas. Como você testaria essas hipóteses e corrigiria os problemas identificados?

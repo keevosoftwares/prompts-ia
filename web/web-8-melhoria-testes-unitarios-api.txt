@@ -1,0 +1,1 @@
+No arquivo `Tests/ProdutoServiceTests.cs`, revise os testes unitários e identifique melhorias na cobertura dos métodos críticos da classe `ProdutoService.cs`. Como aplicar mocks e fakes de forma eficaz?

@@ -1,0 +1,1 @@
+Me ajude a criar uma documentação eficaz para o código a seguir, focando em explicar as principais responsabilidades de cada classe/método. Como posso adicionar comentários que realmente ajudem outros desenvolvedores a entender o código sem sobrecarregá-lo com informações redundantes?

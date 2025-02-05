@@ -1,0 +1,1 @@
+Este código parece estar implementando uma lógica que poderia se beneficiar de padrões de design conhecidos. Com base no padrão X (por exemplo, Strategy, Observer, Factory), como você refatoraria este código para torná-lo mais flexível e desacoplado?

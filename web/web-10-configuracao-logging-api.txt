@@ -1,0 +1,1 @@
+No arquivo `appsettings.json`, configure um sistema de logging eficiente para a API, registrando erros e requisições de forma estruturada. Como integrar o Serilog para facilitar análise de logs em produção?

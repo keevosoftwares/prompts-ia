@@ -1,0 +1,1 @@
+Este código contém uma lógica complexa que é difícil de seguir e entender. Como você abordaria a simplificação dessa lógica, possivelmente dividindo-a em funções menores ou utilizando estruturas de controle mais claras?
